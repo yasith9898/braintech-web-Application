@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BrainTech IT Company Management System
 
 A complete modern IT Company Management System built with Laravel 12, Blade, Bootstrap 5, JavaScript, and SQLite. This system includes a professional corporate IT company website with a complete Admin Panel and CMS.
@@ -217,3 +218,6 @@ For support and questions, please contact the development team.
 ---
 
 Built with [Laravel](https://laravel.com) - The PHP Framework for Web Artisans
+=======
+# braintech-web-Application
+>>>>>>> 136bd2c870312c84999c0082a3285a2f87803a41
