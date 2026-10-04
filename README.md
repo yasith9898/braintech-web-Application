@@ -220,4 +220,24 @@ For support and questions, please contact the development team.
 Built with [Laravel](https://laravel.com) - The PHP Framework for Web Artisans
 =======
 # braintech-web-Application
->>>>>>> 136bd2c870312c84999c0082a3285a2f87803a41
+
+
+<img width="955" height="407" alt="Screenshot 2026-10-04 095050 - Copy" src="https://github.com/user-attachments/assets/7022d396-cf02-47cc-afcf-077287961eb9" />
+<img width="954" height="401" alt="Screenshot 2026-10-04 095036" src="https://github.com/user-attachments/assets/a828d338-2cf1-4cbf-9b21-066de45817d5" />
+<img width="954" height="401" alt="Screenshot 2026-10-04 095036 - Copy" src="https://github.com/user-attachments/assets/31fc0b6b-7d9c-4a42-a0f7-ebfc2c55b0d6" />
+<img width="955" height="405" alt="Screenshot 2026-10-04 095022" src="https://github.com/user-attachments/assets/21aae7f0-dd40-4261-8226-cb4caefd460a" />
+<img width="955" height="405" alt="Screenshot 2026-10-04 095022 - Copy" src="https://github.com/user-attachments/assets/669b921a-1028-4d20-8938-c0ae13277be4" />
+<img width="953" height="404" alt="Screenshot 2026-10-04 095009" src="https://github.com/user-attachments/assets/12b23a10-be41-4df1-807d-86d785c4fc48" />
+<img width="953" height="404" alt="Screenshot 2026-10-04 095009 - Copy" src="https://github.com/user-attachments/assets/116bd783-17ed-4c77-9521-25e0e665dbb2" />
+<img width="955" height="404" alt="Screenshot 2026-10-04 094957" src="https://github.com/user-attachments/assets/6843fc28-5dcf-49b1-a6b9-8557c6269c63" />
+<img width="955" height="404" alt="Screenshot 2026-10-04 094957 - Copy" src="https://github.com/user-attachments/assets/cbbb7226-95db-4a4a-99f2-42151376ff8d" />
+<img width="945" height="386" alt="Screenshot 2026-10-04 094924" src="https://github.com/user-attachments/assets/de912bcc-493e-4a0d-a0fa-a200df0bd5b3" />
+<img width="953" height="373" alt="Screenshot 2026-10-04 094913" src="https://github.com/user-attachments/assets/289a1dfc-67d1-46de-ad77-fd024a648f64" />
+<img width="937" height="395" alt="Screenshot 2026-10-04 094859" src="https://github.com/user-attachments/assets/5d4b8727-c194-4070-84f7-ad287bcff7f5" />
+<img width="950" height="413" alt="Screenshot 2026-10-04 094725" src="https://github.com/user-attachments/assets/a9a9030e-c63d-481e-ab65-efc8075a4086" />
+<img width="956" height="412" alt="Screenshot 2026-10-04 094633" src="https://github.com/user-attachments/assets/5de4fb37-98d9-4b36-ba12-76de6b8d1663" />
+<img width="956" height="392" alt="Screenshot 2026-10-04 095111 - Copy" src="https://github.com/user-attachments/assets/9934b016-e2dd-4419-bc65-355ab3200664" />
+<img width="957" height="408" alt="Screenshot 2026-10-04 095059" src="https://github.com/user-attachments/assets/b71c0e9f-82ad-40e5-b1bf-a3f676f9a4e8" />
+<img width="957" height="408" alt="Screenshot 2026-10-04 095059 - Copy" src="https://github.com/user-attachments/assets/f997c298-6f54-47b7-bfe8-911a3479527c" />
+<img width="955" height="407" alt="Screenshot 2026-10-04 095050" src="https://github.com/user-attachments/assets/6d1cf79f-f834-4152-80be-2a1ca4ecf5eb" />
+
